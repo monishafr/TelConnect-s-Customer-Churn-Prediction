@@ -64,7 +64,7 @@ Top churn predictors across models:
 
 # **Author**
 - **Monisha Patro**  
-- Email: monishaapatro@gmail.com  
+
 
 ---
 This project provides a **data-driven retention strategy** for TelConnect, reducing churn and optimizing retention costs. 
